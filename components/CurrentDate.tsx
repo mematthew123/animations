@@ -1,4 +1,3 @@
-// components/CurrentDate.tsx
 import React from 'react';
 
 const CurrentDate: React.FC = () => {
